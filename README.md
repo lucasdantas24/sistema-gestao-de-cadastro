@@ -1,3 +1,21 @@
+# Register's Management(Hiring Coders)
+
+This project was made as a challenge of Gama Academy's Hiring Coders bootcamp, it is a system to manage a e-commerce register of its clients and products. The technology used is React.
+
+# Functionalities
+
+## Home Page
+
+In this page you can select either you want to see the products or clients registers.
+
+## Clients/Products View Page
+
+In these pages it's possible to see the data already storaged.
+
+## Clients/Products Register Page
+
+In these pages you can register new data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
