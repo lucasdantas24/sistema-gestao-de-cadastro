@@ -1,0 +1,21 @@
+
+.section-principal {
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    background-color: #000;
+    color: #fff;
+    font-size: 24px;
+}
+
+th, td {
+    color: #fff;
+}
+
+@media (max-width:600px) {
+    .section-principal {
+        font-size: 12px;
+        height: 100vh;
+    }
+}
